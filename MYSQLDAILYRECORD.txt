@@ -1,1 +1,2 @@
 今天学习了mysql的简单查询语句和group by查询语句—2017.4.12 in  dj university
+今天学习了mysql的表的删、改操作和mysql运算符的运用（算术、比较、逻辑、位运算符）——2017.5.7 in dj uni library fifth floor
